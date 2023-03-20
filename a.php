@@ -1,4 +1,3 @@
 <?php
+echo 'as1111as';
 
-
-echo 'aaaaa';
